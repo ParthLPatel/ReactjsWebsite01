@@ -29,8 +29,8 @@ const ServiceData = [
     },
     {
         imgSrc:IOSDev,
-        body:'We can help you with Android development services using technologies such as Swift,Objective C.',
-        title:'Digital Marketing',
+        body:'We can help you with IOS development services using technologies such as Swift,Objective C.',
+        title:'IOS Development',
     },
     
 ]
