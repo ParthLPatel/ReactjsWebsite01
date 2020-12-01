@@ -29,7 +29,7 @@ const ServiceData = [
     },
     {
         imgSrc:IOSDev,
-        body:'We can help you with IOS development services using technologies such as Swift,Objective C.',
+        body:'We can help you with IOS development services using technologies such as Swift Programming Language.',
         title:'IOS Development',
     },
     
